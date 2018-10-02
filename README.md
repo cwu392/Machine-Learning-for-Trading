@@ -1,7 +1,6 @@
 # Machine-Learning-for-Trading
 ## Apply machine learning models to stock portfolio optimization
-
-## This repository is based on course CS 7646: Machine Learning for Trading at Georgia Tech
+### This repository is based on course CS 7646: Machine Learning for Trading at Georgia Tech
 ### The instructor is Prof. Tucker Balch
 ### Course website:
 ### http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course
